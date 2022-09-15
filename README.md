@@ -16,7 +16,7 @@
 ✅ FastAPI
 ✅ SQL
 ✅ NodeJS
-<img src="https://github-readme-stats.vercel.app/api?username=thakoreh&show_icons=true" alt="thakoreh" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=thakoreh&show_icons=true" alt="thakoreh" /> </p>
 </p>
 </h3>
 <p align="center">
