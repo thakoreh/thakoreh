@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hiren Thakore</h1>
-<h3 align="center">Full Stack Software Engineer, coding smart things.</h3>
+<h3 align="center">Back End Software Engineer, coding smart things.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thakoreh" alt="thakoreh" /> </p>
 
