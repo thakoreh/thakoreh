@@ -20,7 +20,7 @@
 ✅ NodeJS
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=thakoreh&show_icons=true" alt="thakoreh" /> </p>
 </p>
-  <p align="center"><a href="https://app.daily.dev/hirenthakore"><img src="https://api.daily.dev/devcards/ffd201512af74935a5aa914e078d0f0a.png?r=tuu" width="400" alt="Hiren Thakore's Dev Card"/></a></p>
+  <p align="center"><a href="https://app.daily.dev/hirenthakore"><img src="https://api.daily.dev/devcards/ffd201512af74935a5aa914e078d0f0a.png?r=pbl" width="400" alt="Hiren Thakore's Dev Card"/></a></p>
 </h3>
 <p align="center">
 <a href="https://codepen.io/hirenthakore" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="hirenthakore" height="20" width="20" /></a>
