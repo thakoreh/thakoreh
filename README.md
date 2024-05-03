@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thakoreh" alt="thakoreh" /> </p>
 
-- 💬 Ask me about **Python,Solidity, ReactJS, Automation, System Design, AWS**
+- 💬 Ask me about **Python, Solidity, ReactJS, Automation, System Design, AWS**
 
 - 📫 How to reach me **hiren.thakore58@gmail.com**
 
