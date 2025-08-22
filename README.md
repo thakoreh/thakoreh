@@ -132,15 +132,6 @@ current_focus:
 
 </div>
 
-
-## 🌟 Daily Dev Card
-
-<div align="center">
-  <a href="https://app.daily.dev/hirenthakore">
-    <img src="https://api.daily.dev/devcards/ffd201512af74935a5aa914e078d0f0a.png?r=pbl" width="300" alt="Hiren Thakore's Dev Card"/>
-  </a>
-</div>
-
 ## 🤝 Connect With Me
 
 <div align="center">
