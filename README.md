@@ -1,168 +1,104 @@
 <div align="center">
-  
-# Hi there, I'm Hiren Thakore 👋
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=435&lines=Software+Engineer;Full-Stack+Developer;Cloud+Enthusiast;Blockchain+Developer;Problem+Solver" alt="Typing SVG" />
+# Hiren Thakore
 
-### Software Engineer | Full-Stack Developer | Cloud Enthusiast
+**Software engineer building AI agents, developer tools, and automation-heavy products.**
+
+I like systems that do real work: agents with memory, tools that remove busywork, workflows that ship without drama, and small products that prove an idea fast.
+
+[Portfolio](https://hirenthakore.com/) · [LinkedIn](https://linkedin.com/in/hirenthakore) · [X](https://twitter.com/hirenthakore) · [Email](mailto:hiren.thakore58@gmail.com)
 
 <img src="https://komarev.com/ghpvc/?username=thakoreh&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 
+</div>
+
 ---
 
-</div>
+## What I care about
 
-## 🚀 About Me
+- **Software engineering:** clean systems, useful abstractions, good DX, boring reliability.
+- **AI agents:** local-first assistants, tool use, memory, scheduled work, subagents, agent security.
+- **AI workflows:** turning repeatable work into automation, from research to code review to shipping.
+- **Developer products:** small tools that help builders move faster without adding process.
+- **Open source:** learning in public, contributing where I can, and studying how serious software gets made.
 
-- 🔭 I'm passionate about building **smart, scalable solutions** with modern technologies
-- 💬 Ask me about **Python, Solidity, ReactJS, Automation, System Design, AWS**
-- 🌱 Currently exploring **blockchain development** and **cloud architecture**
-- ⚡ Fun fact: **Chai over Coffee anyday :)**
-- 🌐 Check out my website: **[hirenthakore.com](https://hirenthakore.com/)**
-- 📫 Reach me at: **hiren.thakore58@gmail.com**
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### Languages & Frameworks
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-
-### Cloud & DevOps
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
-
-### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-
-</div>
-
-## 📊 GitHub Stats
-
-<div align="center">
-  
-<table>
-<tr>
-<td>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=thakoreh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10"/>
-</td>
-<td>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thakoreh&layout=compact&langs_count=8&theme=tokyonight&border_radius=10"/>
-</td>
-</tr>
-</table>
-
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-<img src="https://github-profile-trophy.vercel.app/?username=thakoreh&theme=tokyonight&column=7" alt="GitHub Trophies"/>
-
-</div>
-
-## 📈 Contribution Graph
-
-<div align="center">
-  
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=thakoreh&bg_color=0d1117&color=58a6ff&line=f85149&point=ffa657&area=true&hide_border=true" alt="GitHub Activity Graph"/>
-
-</div>
-
-## 💻 Current Focus
+## Current direction
 
 ```yaml
-current_focus:
-  - Cloud Architecture & AWS Solutions
-  - Blockchain Development with Solidity
-  - Full-Stack Web Applications
-  - System Design & Scalability
-  - DevOps & Automation
-  - AI/ML Integration
+focus:
+  - AI agents that can operate across files, browsers, terminals, and chat
+  - developer tools for API work, docs, evals, prompts, and launch workflows
+  - micro-SaaS experiments built fast and tested in the open
+  - automation pipelines that turn ideas into shipped artifacts
+  - practical AI engineering: cost, evals, security, reliability, UX
 ```
 
-## 💡 Featured Projects & Contributions
+## Projects I am building around
 
-- 🚀 **Advanced Data Processing Pipeline** - Real-time stream processing with microservices architecture
-- 🔗 **Smart Contract Development** - DeFi protocols and blockchain applications
-- ☁️ **Cloud Infrastructure Automation** - AWS/Azure deployment tools and CI/CD pipelines
-- 🤖 **AI/ML Solutions** - Machine learning models for business optimization
-- 📊 **Analytics Dashboard** - Real-time monitoring and visualization tools
+- [**llm-speedtest-mcp**](https://github.com/thakoreh/llm-speedtest-mcp)  
+  Benchmark AI model inference speed, like speedtest.net for LLMs. MCP server, zero telemetry.
 
-## 🌟 Skills & Achievements
+- [**hermes-exploration-plugin**](https://github.com/thakoreh/hermes-exploration-plugin)  
+  Exploration layer for AI agents to discover tools, APIs, models, and workflows.
 
-<div align="center">
+- [**agent-tally**](https://github.com/thakoreh/agent-tally)  
+  Cost tracking across AI coding agent CLIs.
 
-| Category | Technologies |
-|----------|-------------|
-| **Frontend** | React.js, Next.js, Vue.js, HTML5, CSS3, SASS, Tailwind CSS |
-| **Backend** | Python, Node.js, Express.js, FastAPI, Django, REST APIs, GraphQL |
-| **Blockchain** | Solidity, Web3.js, Ethers.js, Hardhat, Truffle, Smart Contracts |
-| **Cloud** | AWS (EC2, S3, Lambda, RDS), Docker, Kubernetes, Terraform |
-| **Databases** | PostgreSQL, MongoDB, Redis, MySQL, DynamoDB |
-| **Tools** | Git, Docker, Jenkins, GitHub Actions, Postman, VS Code |
+- [**apicaller**](https://github.com/thakoreh/apicaller)  
+  Paste an API URL and get the curl commands you need.
 
-</div>
+- [**vibecheck**](https://github.com/thakoreh/vibecheck)  
+  Audit AI-generated code for security issues, weak patterns, and maintainability problems.
 
-## 🎯 2025 Goals
+- [**realestate-cmo**](https://github.com/thakoreh/realestate-cmo)  
+  Vertical AI CMO experiment for real estate operators.
 
-- [ ] Contribute to 5+ Open Source Projects
-- [ ] Build and Deploy 8 Blockchain DApps
-- [ ] Mentor 12+ Developers
-- [ ] Launch a Micro-SaaS product
+- [**promptforge**](https://github.com/thakoreh/promptforge) · [**readmeforge**](https://github.com/thakoreh/readmeforge) · [**ai-citation-monitor**](https://github.com/thakoreh/ai-citation-monitor)  
+  Small builder tools for prompt work, documentation, and AI search visibility.
 
-## 🌟 Daily Dev Quote
+## Open source rabbit holes
 
-<div align="center">
-  
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+I spend a lot of time studying and forking projects in:
 
-</div>
+- agent frameworks and personal assistants
+- MCP servers and tool registries
+- LLM gateways, evals, and observability
+- ML infrastructure and workflow orchestration
+- Python developer tooling
 
-## 🤝 Connect With Me
+A few areas I keep coming back to: `agents`, `MCP`, `LLM APIs`, `evals`, `automation`, `workflow engines`, `developer experience`, `AI security`.
 
-<div align="center">
+## Stack I reach for
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hirenthakore)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/hirenthakore)
-[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/thakoreh)
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/12203805/codername-hiren)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/codershorts)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/hirenthakore_)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://hirenthakore.com/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hiren.thakore58@gmail.com)
+**Languages:** Python, TypeScript, JavaScript, Go, Solidity  
+**Frontend:** React, Next.js, Tailwind, Astro  
+**Backend:** FastAPI, Node.js, Django, REST, GraphQL  
+**Data/infra:** PostgreSQL, Redis, MongoDB, Docker, GitHub Actions, AWS  
+**AI/dev workflow:** MCP, agent tool use, browser automation, evals, LLM APIs, prompt systems
 
-</div>
-
-## 💰 Support My Work
+## GitHub stats
 
 <div align="center">
 
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/hirenthakoa)
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)]([https://paypal.me/hirenthakore](https://paypal.me/hirenthakore))
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=thakoreh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thakoreh&layout=compact&langs_count=8&theme=tokyonight&border_radius=10" alt="Top languages" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=thakoreh&bg_color=0d1117&color=58a6ff&line=f85149&point=ffa657&area=true&hide_border=true" alt="GitHub activity graph" />
 
 </div>
+
+## How I think about engineering
+
+I like tools that are small enough to understand and useful enough to keep using.
+
+The best AI workflow is not a flashy demo. It is the boring loop that runs every day, catches errors, saves time, and leaves a trail you can debug later.
+
+That is the kind of software I want to build more of.
 
 ---
 
 <div align="center">
-  
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 
-<h3>🌟 Thanks for visiting! Don't forget to ⭐ my repositories if you find them interesting! 🌟</h3>
+**Building in public. Mostly software, agents, automation, and experiments that ship.**
 
-  <i>⭐️ From [thakoreh](https://github.com/thakoreh) with ❤️</i>
 </div>
