@@ -1,104 +1,126 @@
 <div align="center">
-
-# Hiren Thakore
-
-**Software engineer building AI agents, developer tools, and automation-heavy products.**
-
-I like systems that do real work: agents with memory, tools that remove busywork, workflows that ship without drama, and small products that prove an idea fast.
-
-[Portfolio](https://hirenthakore.com/) · [LinkedIn](https://linkedin.com/in/hirenthakore) · [X](https://twitter.com/hirenthakore) · [Email](mailto:hiren.thakore58@gmail.com)
-
-<img src="https://komarev.com/ghpvc/?username=thakoreh&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-
+  <img src="./assets/hero.svg" width="100%" alt="Hiren Thakore — software engineer building AI agents, developer tools, and products" />
 </div>
 
----
+<div align="center">
+  <a href="https://hirenthakore.com/"><b>Portfolio</b></a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/hirenthakore"><b>LinkedIn</b></a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="mailto:hiren.thakore58@gmail.com"><b>Let's build</b></a>
+</div>
 
-## What I care about
+<br />
 
-- **Software engineering:** clean systems, useful abstractions, good DX, boring reliability.
-- **AI agents:** local-first assistants, tool use, memory, scheduled work, subagents, agent security.
-- **AI workflows:** turning repeatable work into automation, from research to code review to shipping.
-- **Developer products:** small tools that help builders move faster without adding process.
-- **Open source:** learning in public, contributing where I can, and studying how serious software gets made.
+> I turn emerging AI capabilities into software people can actually use — fast enough to learn, solid enough to keep.
 
-## Current direction
+I am a Toronto-based software engineer working where **AI agents**, **developer experience**, and **small, sharp products** overlap. My favorite projects remove a tedious loop, expose a hidden cost, or make a complex system feel obvious.
 
-```yaml
-focus:
-  - AI agents that can operate across files, browsers, terminals, and chat
-  - developer tools for API work, docs, evals, prompts, and launch workflows
-  - micro-SaaS experiments built fast and tested in the open
-  - automation pipelines that turn ideas into shipped artifacts
-  - practical AI engineering: cost, evals, security, reliability, UX
+## Selected systems
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### [llm-speedtest-mcp](https://github.com/thakoreh/llm-speedtest-mcp)
+
+**Speedtest.net for language models.** Benchmark inference latency from any MCP client—with zero telemetry.
+
+`JavaScript` · `MCP` · `MIT`
+
+</td>
+<td width="50%" valign="top">
+
+### [agent-tally](https://github.com/thakoreh/agent-tally)
+
+**One cost ledger for every coding agent.** See what autonomous development actually costs across CLIs.
+
+`Python` · `Developer tooling` · `MIT`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [hermes-exploration-plugin](https://github.com/thakoreh/hermes-exploration-plugin)
+
+**A discovery layer for AI agents.** Find and share useful tools, APIs, models, and workflows.
+
+`Python` · `Agents` · `MIT`
+
+</td>
+<td width="50%" valign="top">
+
+### [vibecheck](https://github.com/thakoreh/vibecheck)
+
+**A reality check for AI-generated code.** Catch security issues, anti-patterns, and maintenance debt before they ship.
+
+`Python` · [`PyPI`](https://pypi.org/project/vibechecker/) · `MIT`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [apicaller](https://github.com/thakoreh/apicaller)
+
+**API docs, compressed into action.** Paste an endpoint and get the curl commands you need.
+
+`TypeScript` · `Developer experience`
+
+</td>
+<td width="50%" valign="top">
+
+### [Model Eval Daily](https://github.com/thakoreh/modelevaldaily)
+
+**A living view of model performance.** Follow the fast-moving AI model landscape without drowning in release noise.
+
+`Astro` · [`Live site`](https://modelevaldaily.vercel.app)
+
+</td>
+</tr>
+</table>
+
+## My operating system
+
+```text
+find friction  →  build the smallest useful thing  →  put it in real hands
+      ↑                                                   ↓
+      └──────────── measure, learn, simplify ─────────────┘
 ```
 
-## Projects I am building around
+I optimize for:
 
-- [**llm-speedtest-mcp**](https://github.com/thakoreh/llm-speedtest-mcp)  
-  Benchmark AI model inference speed, like speedtest.net for LLMs. MCP server, zero telemetry.
+- **Useful over theatrical** — the best demo becomes a dependable daily tool.
+- **Observable over mysterious** — costs, failures, and tradeoffs should be visible.
+- **Small surface area** — fewer moving parts, clearer ownership, faster iteration.
+- **Shipping as research** — working software teaches more than another planning document.
 
-- [**hermes-exploration-plugin**](https://github.com/thakoreh/hermes-exploration-plugin)  
-  Exploration layer for AI agents to discover tools, APIs, models, and workflows.
+## Current frontier
 
-- [**agent-tally**](https://github.com/thakoreh/agent-tally)  
-  Cost tracking across AI coding agent CLIs.
+```yaml
+building:
+  - agents that can use tools safely across files, browsers, terminals, and chat
+  - infrastructure for model evaluation, cost visibility, and reliable automation
+  - focused products that turn one painful workflow into one satisfying action
 
-- [**apicaller**](https://github.com/thakoreh/apicaller)  
-  Paste an API URL and get the curl commands you need.
+exploring:
+  - memory and deterministic conflict resolution for local-first agents
+  - evals that measure whether an AI workflow is useful, not merely impressive
+  - security boundaries for software that can act on a user's behalf
+```
 
-- [**vibecheck**](https://github.com/thakoreh/vibecheck)  
-  Audit AI-generated code for security issues, weak patterns, and maintainability problems.
+## Tools I reach for
 
-- [**realestate-cmo**](https://github.com/thakoreh/realestate-cmo)  
-  Vertical AI CMO experiment for real estate operators.
-
-- [**promptforge**](https://github.com/thakoreh/promptforge) · [**readmeforge**](https://github.com/thakoreh/readmeforge) · [**ai-citation-monitor**](https://github.com/thakoreh/ai-citation-monitor)  
-  Small builder tools for prompt work, documentation, and AI search visibility.
-
-## Open source rabbit holes
-
-I spend a lot of time studying and forking projects in:
-
-- agent frameworks and personal assistants
-- MCP servers and tool registries
-- LLM gateways, evals, and observability
-- ML infrastructure and workflow orchestration
-- Python developer tooling
-
-A few areas I keep coming back to: `agents`, `MCP`, `LLM APIs`, `evals`, `automation`, `workflow engines`, `developer experience`, `AI security`.
-
-## Stack I reach for
-
-**Languages:** Python, TypeScript, JavaScript, Go, Solidity  
-**Frontend:** React, Next.js, Tailwind, Astro  
-**Backend:** FastAPI, Node.js, Django, REST, GraphQL  
-**Data/infra:** PostgreSQL, Redis, MongoDB, Docker, GitHub Actions, AWS  
-**AI/dev workflow:** MCP, agent tool use, browser automation, evals, LLM APIs, prompt systems
-
-## GitHub stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=thakoreh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thakoreh&layout=compact&langs_count=8&theme=tokyonight&border_radius=10" alt="Top languages" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=thakoreh&bg_color=0d1117&color=58a6ff&line=f85149&point=ffa657&area=true&hide_border=true" alt="GitHub activity graph" />
-
-</div>
-
-## How I think about engineering
-
-I like tools that are small enough to understand and useful enough to keep using.
-
-The best AI workflow is not a flashy demo. It is the boring loop that runs every day, catches errors, saves time, and leaves a trail you can debug later.
-
-That is the kind of software I want to build more of.
+**Core:** Python · TypeScript · JavaScript · Go · SQL<br />
+**Product:** React · Next.js · Astro · Tailwind · FastAPI · Node.js<br />
+**Systems:** PostgreSQL · Redis · Docker · GitHub Actions · AWS<br />
+**AI:** MCP · tool use · evals · retrieval · browser automation · LLM APIs
 
 ---
 
 <div align="center">
-
-**Building in public. Mostly software, agents, automation, and experiments that ship.**
-
+  <h3>Have a difficult problem with a useful outcome?</h3>
+  <p><a href="mailto:hiren.thakore58@gmail.com"><b>Tell me about it →</b></a></p>
+  <sub>Toronto, Canada · Open to ambitious engineering and product work</sub>
 </div>
