@@ -16,6 +16,18 @@
 
 I am a Toronto-based software engineer working where **AI agents**, **developer experience**, and **small, sharp products** overlap. My favorite projects remove a tedious loop, expose a hidden cost, or make a complex system feel obvious.
 
+## Start here
+
+Building with AI? These are three ways to explore my work:
+
+| What you want to do | Where to start |
+| --- | --- |
+| Compare model response speed | [LLM Speedtest MCP setup](https://github.com/thakoreh/llm-speedtest-mcp#-quick-start) |
+| Understand coding-agent spend | [agent-tally quick start](https://github.com/thakoreh/agent-tally#quick-start) |
+| Review generated Python or JavaScript | [VibeChecker usage](https://github.com/thakoreh/vibecheck#usage) |
+
+Follow **[@thakoreh](https://github.com/thakoreh)** for practical AI tools, model benchmarking, and the engineering tradeoffs behind them. To get involved, try a tool and open an issue with a reproducible example, expected behavior, and your environment. Redact tokens, private code, and personal data.
+
 ## Selected systems
 
 <table>
@@ -24,7 +36,7 @@ I am a Toronto-based software engineer working where **AI agents**, **developer 
 
 ### [llm-speedtest-mcp](https://github.com/thakoreh/llm-speedtest-mcp)
 
-**Speedtest.net for language models.** Benchmark inference latency from any MCP client—with zero telemetry.
+**Speedtest.net for language models.** Compare model response speed through an MCP client using your own provider keys.
 
 `JavaScript` · `MCP` · `MIT`
 
@@ -33,7 +45,7 @@ I am a Toronto-based software engineer working where **AI agents**, **developer 
 
 ### [agent-tally](https://github.com/thakoreh/agent-tally)
 
-**One cost ledger for every coding agent.** See what autonomous development actually costs across CLIs.
+**Cost visibility for coding-agent sessions.** Estimate spend from detected model and token output across CLI tools.
 
 `Python` · `Developer tooling` · `MIT`
 
@@ -53,7 +65,7 @@ I am a Toronto-based software engineer working where **AI agents**, **developer 
 
 ### [vibecheck](https://github.com/thakoreh/vibecheck)
 
-**A reality check for AI-generated code.** Catch security issues, anti-patterns, and maintenance debt before they ship.
+**A pattern scanner for AI-generated code.** Flag potential security issues and code smells in Python, JavaScript, and TypeScript.
 
 `Python` · [`PyPI`](https://pypi.org/project/vibechecker/) · `MIT`
 
@@ -64,7 +76,7 @@ I am a Toronto-based software engineer working where **AI agents**, **developer 
 
 ### [apicaller](https://github.com/thakoreh/apicaller)
 
-**API docs, compressed into action.** Paste an endpoint and get the curl commands you need.
+**From endpoint to request code.** Configure a URL, method, headers, and body, then copy curl or JavaScript fetch.
 
 `TypeScript` · `Developer experience`
 
