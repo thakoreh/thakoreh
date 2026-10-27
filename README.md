@@ -85,11 +85,11 @@ Follow **[@thakoreh](https://github.com/thakoreh)** for practical AI tools, mode
 </td>
 <td width="50%" valign="top">
 
-### [Model Eval Daily](https://github.com/thakoreh/modelevaldaily)
+### [LightStage](https://github.com/thakoreh/lightstage)
 
-**A living view of model performance.** Follow the fast-moving AI model landscape without drowning in release noise.
+**One light across React materials.** Shared stylized CSS lighting for metal, glass, and paper, with a coding-agent skill for integration.
 
-`Astro` · [`Live site`](https://modelevaldaily.vercel.app)
+`React` · `TypeScript` · `MIT` · [Install guide](https://github.com/thakoreh/lightstage#install-in-a-react-19-app)
 
 </td>
 </tr>
