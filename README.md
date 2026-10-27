@@ -1,140 +1,66 @@
 <div align="center">
-  <img src="./assets/hero.svg" width="100%" alt="Hiren Thakore — software engineer building AI agents, developer tools, and products" />
+  <img src="./assets/hero.svg" width="100%" alt="Hiren Thakore — software engineer building AI-agent tooling and indie apps" />
+
+  <h3>I build open-source tooling for AI-agent builders — and ship indie apps with it.</h3>
+
+  <p>
+    <a href="https://hirenthakore.com/"><img alt="Portfolio" src="https://img.shields.io/badge/hirenthakore.com-111827?style=flat-square&logo=googlechrome&logoColor=white" /></a>
+    <a href="https://linkedin.com/in/hirenthakore"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+    <a href="mailto:hiren.thakore58@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+    <!-- TODO: add X badge once the handle is confirmed:
+    <a href="https://x.com/HANDLE"><img alt="X" src="https://img.shields.io/badge/@HANDLE-000000?style=flat-square&logo=x&logoColor=white" /></a> -->
+    <a href="https://github.com/thakoreh?tab=followers"><img alt="Follow on GitHub" src="https://img.shields.io/github/followers/thakoreh?label=Follow&style=flat-square&logo=github" /></a>
+  </p>
 </div>
 
-<div align="center">
-  <a href="https://hirenthakore.com/"><b>Portfolio</b></a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/hirenthakore"><b>LinkedIn</b></a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="mailto:hiren.thakore58@gmail.com"><b>Let's build</b></a>
-</div>
+Toronto-based software engineer. I make the hidden parts of AI work visible — **model speed, agent cost, and code quality** — and turn painful workflows into small, sharp products.
 
-<br />
+## 🔨 Now building
 
-> I turn emerging AI capabilities into software people can actually use — fast enough to learn, solid enough to keep.
+- **Agent cost visibility** — [agent-tally](https://github.com/thakoreh/agent-tally) tracks spend across coding-agent CLIs. Field note: [why a $0 estimate doesn't prove a run was free](https://github.com/thakoreh/agent-tally/blob/main/docs/cost-accuracy.md).
+- **Model benchmarking** — [llm-speedtest-mcp](https://github.com/thakoreh/llm-speedtest-mcp), speedtest.net for LLMs, as an MCP server.
+- **Indie apps** — [Reelish](https://play.google.com/store/apps/details?id=com.hiren.simmerlite) on Google Play and [Paris Pulse](https://parispulse.ca), a local guide for Paris, Ontario.
 
-I am a Toronto-based software engineer working where **AI agents**, **developer experience**, and **small, sharp products** overlap. My favorite projects remove a tedious loop, expose a hidden cost, or make a complex system feel obvious.
+## ⭐ Featured projects
 
-## Start here
+| Project | What it does | Stack |
+| --- | --- | --- |
+| [**llm-speedtest-mcp**](https://github.com/thakoreh/llm-speedtest-mcp) | Benchmark LLM inference speed from any MCP client with your own keys. Zero telemetry. | TypeScript · MCP |
+| [**agent-tally**](https://github.com/thakoreh/agent-tally) | Track and estimate costs across every AI coding-agent CLI. | Python |
+| [**vibecheck**](https://github.com/thakoreh/vibecheck) | Audit AI-generated code for anti-patterns and security issues, with a vibe score. `pip install vibechecker` | Python · [PyPI](https://pypi.org/project/vibechecker/) |
+| [**hermes-exploration-plugin**](https://github.com/thakoreh/hermes-exploration-plugin) | Discovery layer for AI agents — find and share tools, APIs, and models. | Python |
+| [**Reelish**](https://play.google.com/store/apps/details?id=com.hiren.simmerlite) | Turns food videos from Instagram, TikTok, and YouTube Shorts into recipe cards and a merged grocery list. | Kotlin · Android |
+| [**Paris Pulse**](https://parispulse.ca) · [repo](https://github.com/thakoreh/paris-ontario) | Tourism site and restaurant directory for Paris, Ontario. | TypeScript |
 
-Building with AI? These are three ways to explore my work:
+<sub>More: [apicaller](https://thakoreh.github.io/apicaller/) (URL → curl/fetch) · [LightStage](https://github.com/thakoreh/lightstage) (stylized CSS lighting for React)</sub>
 
-| What you want to do | Where to start |
-| --- | --- |
-| Compare model response speed | [LLM Speedtest MCP setup](https://github.com/thakoreh/llm-speedtest-mcp#-quick-start) |
-| Understand coding-agent spend | [agent-tally quick start](https://github.com/thakoreh/agent-tally#quick-start) |
-| Review generated Python or JavaScript | [VibeChecker usage](https://github.com/thakoreh/vibecheck#usage) |
+## 🧰 Tech stack
 
-**Field note:** [Why a zero cost estimate does not prove an agent run was free](https://github.com/thakoreh/agent-tally/blob/main/docs/cost-accuracy.md). Includes an offline, reproducible demo with synthetic usage and no provider calls.
+<p>
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img alt="Astro" src="https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white" />
+  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+  <img alt="MCP" src="https://img.shields.io/badge/MCP-111827?style=flat-square" />
+</p>
 
-Follow **[@thakoreh](https://github.com/thakoreh)** for practical AI tools, model benchmarking, and the engineering tradeoffs behind them. To get involved, try a tool and open an issue with a reproducible example, expected behavior, and your environment. Redact tokens, private code, and personal data.
+## 📈 GitHub activity
 
-## Selected systems
+<p align="center">
+  <img height="150" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=thakoreh&show_icons=true&hide_border=true&count_private=true" />
+  <img height="150" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thakoreh&layout=compact&hide_border=true&langs_count=6" />
+</p>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+## 🤝 Get involved
 
-### [llm-speedtest-mcp](https://github.com/thakoreh/llm-speedtest-mcp)
+Try a tool and open an issue with a reproducible example, expected behavior, and your environment (redact tokens and private code). If you build with AI agents, **[follow along](https://github.com/thakoreh)** — I share the tools and the tradeoffs behind them.
 
-**Speedtest.net for language models.** Compare model response speed through an MCP client using your own provider keys.
-
-`JavaScript` · `MCP` · `MIT`
-
-</td>
-<td width="50%" valign="top">
-
-### [agent-tally](https://github.com/thakoreh/agent-tally)
-
-**Cost visibility for coding-agent sessions.** Estimate spend from detected model and token output across CLI tools.
-
-`Python` · `Developer tooling` · `MIT`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [hermes-exploration-plugin](https://github.com/thakoreh/hermes-exploration-plugin)
-
-**A discovery layer for AI agents.** Find and share useful tools, APIs, models, and workflows.
-
-`Python` · `Agents` · `MIT`
-
-</td>
-<td width="50%" valign="top">
-
-### [vibecheck](https://github.com/thakoreh/vibecheck)
-
-**A pattern scanner for AI-generated code.** Flag potential security issues and code smells in Python, JavaScript, and TypeScript.
-
-`Python` · [`PyPI`](https://pypi.org/project/vibechecker/) · `MIT`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [apicaller](https://github.com/thakoreh/apicaller)
-
-**From endpoint to request code.** Configure a URL, method, headers, and body, then copy curl or JavaScript fetch.
-
-`TypeScript` · `Developer experience`
-
-</td>
-<td width="50%" valign="top">
-
-### [LightStage](https://github.com/thakoreh/lightstage)
-
-**One light across React materials.** Shared stylized CSS lighting for metal, glass, and paper, with a coding-agent skill for integration.
-
-`React` · `TypeScript` · `MIT` · [Install guide](https://github.com/thakoreh/lightstage#install-in-a-react-19-app)
-
-</td>
-</tr>
-</table>
-
-## My operating system
-
-```text
-find friction  →  build the smallest useful thing  →  put it in real hands
-      ↑                                                   ↓
-      └──────────── measure, learn, simplify ─────────────┘
-```
-
-I optimize for:
-
-- **Useful over theatrical** — the best demo becomes a dependable daily tool.
-- **Observable over mysterious** — costs, failures, and tradeoffs should be visible.
-- **Small surface area** — fewer moving parts, clearer ownership, faster iteration.
-- **Shipping as research** — working software teaches more than another planning document.
-
-## Current frontier
-
-```yaml
-building:
-  - agents that can use tools safely across files, browsers, terminals, and chat
-  - infrastructure for model evaluation, cost visibility, and reliable automation
-  - focused products that turn one painful workflow into one satisfying action
-
-exploring:
-  - memory and deterministic conflict resolution for local-first agents
-  - evals that measure whether an AI workflow is useful, not merely impressive
-  - security boundaries for software that can act on a user's behalf
-```
-
-## Tools I reach for
-
-**Core:** Python · TypeScript · JavaScript · Go · SQL<br />
-**Product:** React · Next.js · Astro · Tailwind · FastAPI · Node.js<br />
-**Systems:** PostgreSQL · Redis · Docker · GitHub Actions · AWS<br />
-**AI:** MCP · tool use · evals · retrieval · browser automation · LLM APIs
-
----
-
-<div align="center">
-  <h3>Have a difficult problem with a useful outcome?</h3>
-  <p><a href="mailto:hiren.thakore58@gmail.com"><b>Tell me about it →</b></a></p>
-  <sub>Toronto, Canada · Open to ambitious engineering and product work</sub>
-</div>
+<div align="center"><sub>Toronto, Canada · Open to ambitious engineering and product work</sub></div>
