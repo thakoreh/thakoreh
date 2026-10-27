@@ -26,6 +26,8 @@ Building with AI? These are three ways to explore my work:
 | Understand coding-agent spend | [agent-tally quick start](https://github.com/thakoreh/agent-tally#quick-start) |
 | Review generated Python or JavaScript | [VibeChecker usage](https://github.com/thakoreh/vibecheck#usage) |
 
+**Field note:** [Why a zero cost estimate does not prove an agent run was free](https://github.com/thakoreh/agent-tally/blob/main/docs/cost-accuracy.md). Includes an offline, reproducible demo with synthetic usage and no provider calls.
+
 Follow **[@thakoreh](https://github.com/thakoreh)** for practical AI tools, model benchmarking, and the engineering tradeoffs behind them. To get involved, try a tool and open an issue with a reproducible example, expected behavior, and your environment. Redact tokens, private code, and personal data.
 
 ## Selected systems
