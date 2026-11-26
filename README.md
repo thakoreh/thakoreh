@@ -30,4 +30,4 @@
 - **Code quality** — [vibecheck](https://github.com/thakoreh/vibecheck) audits AI-generated code for anti-patterns and security issues, with a vibe score.
 - **Indie apps** — [ARA Calls](https://aracalls.ca), an AI receptionist for Canadian HVAC and plumbing businesses, and [Paris Pulse](https://parispulse.ca), a local guide for Paris, Ontario.
 
-<sub>The graphics above are generated from live GitHub data by [scripts/generate_profile.py](scripts/generate_profile.py) and refreshed daily.</sub>
+<sub>The graphics above are generated from live GitHub data by [scripts/generate_profile.py](scripts/generate_profile.py).</sub>
